@@ -16,7 +16,7 @@ const rejectMessages = [
     </div>
     <div class="flex flex-col">
       <p class="pt-2">Nếu bạn đã nhất quyết từ chối như vậy!</p>
-      <p class="pt-2">Vậy lì xì MOMO lại cho tớ nhé =))</p>
+      <p class="pt-2">Vậy lì xì lại cho tớ nhé =))</p>
     </div>
   </div>`,
 ];
